@@ -23,7 +23,10 @@
 1. Use CSS Flexbox
 2. Use no styling libary
 3. Use React to build the UI
-4. Use Redux to store data fetched from the API (Bonus)
+4. Use Redux or Context API
+5. Use React Hooks
 
 BIG BONUS
 1. Unit test any part of the code to show case you can unit test (inline comment explaining what you are testing)
+2. NextJs
+3. Context API
