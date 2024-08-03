@@ -1,0 +1,19 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "Code Challenge to apply Full Stack Position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "challenge",
+    "technical",
+    "test"
+  ],
+  "author": "Emanuel Avellón López (emanuel.avellon@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
