@@ -1,0 +1,32 @@
+@import 'color_palette';
+
+.container-modal{
+    width: 100%;
+}
+.studentForm{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+    background-color: color('--header-color');
+    color: color('background');
+    padding: 2px;
+    margin-bottom: 1rem;
+}
+
+.header h3{
+    margin: 5px;
+}
+
+.studentForm input, select{
+    padding: 5px;
+}
+
+.studentForm button{
+    background-color: color('secondary');
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+}
